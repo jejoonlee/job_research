@@ -1,12 +1,12 @@
 # 🧑‍💻 Job Research 🧑‍💻
 
-[Bepro](#-bepro-11-london-한국은)
+[Bepro](#-bepro)
 
 [QMIT](#-qmit-plco)
 
 [Musinsa](#무신사)
 
-[Kakao](#kakao)
+[Kakao](#-kakao)
 
 
 
@@ -23,7 +23,7 @@
 
 
 
-### 📌 Bepro (London, 한국은?)
+### 📌 Bepro
 
 [Bepro](https://bepro.notion.site/Welcome-to-Bepro-d61b332d81ac476787ddb50e5be8b37c)
 

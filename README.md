@@ -1,5 +1,15 @@
 # 🧑‍💻 Job Research 🧑‍💻
 
+[Bepro](#-bepro-11-london-한국은)
+
+[QMIT](#-qmit-plco)
+
+[Musinsa](#무신사)
+
+[Kakao](#kakao)
+
+
+
 
 
 ## 🧰 직군 선택
@@ -13,7 +23,9 @@
 
 
 
-### 📌 Bepro 11 (London, 한국은?)
+### 📌 Bepro (London, 한국은?)
+
+[Bepro](https://bepro.notion.site/Welcome-to-Bepro-d61b332d81ac476787ddb50e5be8b37c)
 
 - 자격요건
   - Python/Django 와 MVC 프레임워크 경험
@@ -28,7 +40,9 @@
 
 
 
-### 📌 QMIT (PLCO) - 곧 개발팀 1~5년 차도 뽑을 예정
+### 📌 QMIT (PLCO)
+
+[QMIT Career](https://qmit-careers.oopy.io/)
 
 **Front-End Developer**
 
@@ -108,6 +122,44 @@
 
 
 
-###  Kakao
+### 📌 Kakao
+
+(카카오엔터프라이즈)
+
+**Frontend Engineer**
+
+- 지원자격
+  - 관련 업무 경력 5년 이상
+  - HTML5, CSS3 기본 지식 및 마크업 능력
+  - Javascript 사용에 능숙하며 ES6+ 표준 스펙을 활용한 개발 경험
+  - Reactjs 또는 Vuejs 를 활용한 SPA 개발 경험 (2년 이상)
+  - REST API 를 활용한 Web 개발 경험
+  - 클라우드 서비스 이용 경험 (AWS, GCP, Azure, etc)
+- 우대사항
+  - Design System 구축 경험
+  - BFF 구축 경험
+  - 클라우드 서비스 개발 경험
+  - 기획, 디자인 팀과 협업을 통한 서비스 개발 경험
+  - Visualization Library 활용 경험 (Chartjs, D3js, etc...)
+  - Webpack, Babel 등을 이용한 프로젝트 환경 구성 경험
+  - UI 테스트 구축 및 개발 경험
+
+
+
+**Backend Engineer**
+
+- 지원자격
+  - CS 관련 기반 지식 (자료구조, 알고리즘 등)
+  - 웹서비스 혹은 분산처리/빅데이터 프레임워크에 대한 개발 및 운용 경험
+  - 새로운 서비스 개발 및 문제 해결을 위한 적극적인 자세
+- 우대사항
+  - 빅데이터 아키텍처 설계 경험 혹은 3년이상의 빅데이터 프레임워크 개발/운용
+  - Java/Kotlin & Spring Framework (Spring boot)를 이용한 대용량 트래픽 실서비스 경험
+  - AI, 빅데이터, 분석 도메인에 대한 이해
+  - Kubernetes, Docker등의 환경 경험
+  - Elasticsearch, Solr 등 DB, 검색 기술에 대한 이해
 
 [코딩테스트 문제해설](https://tech.kakao.com/careers/)
+
+
+

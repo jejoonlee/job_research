@@ -47,36 +47,55 @@
 **Front-End Developer**
 
 - 자격요건
-  - 프론트 엔드 실무 경력 4년 이상 혹은 그에 준하는 실력을 갖추신 분
+  - 프론트 엔드 실무 경력1년 이상 혹은 그에 준하는 실력을 갖추신 분
   - Rest API / Graphql 에 대한 이해가 있으신 분
   - Javascript MVC 프레임워크 (React, Vue.js, etc)를 사용한 경험이  2년 이상이신분
   - HTML, CSS, Javascript, Typescript 에 대한 이해가 있는 분
   - 프론트엔드 테스트 코드에 관심이 있으신분
   - UI/ UX 성능 및 속도 이슈 등 서비스 개선 경험이 있으신 분
   - 협업을 중요하게 생각하시는 분
+  - 상태 관리 라이브러리 (redux, mobx 등)에 대한 경험이 있으신 분
 - 우대사항
   - 에자일 스크럼 경험이 있으신 분
-  - 테스트 자동화 및 테스트 코드 작성 경험이 있으신 분
+  - 단위, 통합 테스트에 대한 경험이 있으신 분
   - 리팩토링 경험이 있으신 분
-  - 개발 문화를 리드한 경험이 있으신 분
   - 디자인 시스템 구축에 경험이 있으신 분
+  - 문제 해결 경험이 있으신 분
+  - Nex.js 및 React Native, typescript 실무 사용 경험이 있으신 분
+  - 코드리뷰를 중요하게 생각하시는 분
+  - React Query, Apollo client를 이용한 상태 관리 경험이 있으신 분
 
 
 
 **Back-End Developer**
 
+- 사용하는 기술 및 인프라
+  - 백엔드: MSA, NestJS (Typescript), Springboot (Kotlin), RESTful API, GraphQL, PostgreSQL
+  - 인프라: Google Cloud Platform, Kubernetes, CI/CD - Github Action, Kafka
+  - 업무툴: Slack, notion, google meet, figma
+- 백엔드 파트에서 plco 서비스를 만드는 일
+  - plco 서비스 신규 API 개발 (도메인 주도 설계, DB 모델링)합니다
+  - Clean Code 에 따르도록 기존 코드 리팩토링을 진행합니다
+  - DDD, Hexagonal architecture를 따르도록 기존 코드 리팩토링 (레이어링)을 진행합니다
+  - 인프라 구성 고도화 (K8S, Kafka, ELK, Istio, Terraform...)를 진행합니다
+
 - 자격요건
-  - 엔지니어링 백그라운드 지식 (OOP/TDD/Refactoring)을 보유하신 분
-  - 읽기 쉽고 유지 보수하기 좋은 설계를 지향하시는 분
-  - 기존 시스템의 문제를 파악하고 재설계하는 것을 즐길 수 있는 분
-  - 동료들 간의 커뮤니케이션이 원활하신 분
+  - 백엔드 실무 경력 2년 이상 혹은 그에 준하는 실력을 갖추신 분
+  - 하나 이상의 백엔드 프로그래밍 언어에 능숙하신 분
+  - MSA에 대한 이해가 있으신 분
+  - Kubernetes, GCP 등 클라우드 환경에서의 배포, 운영 경험이 있으신 분
+  - REST API 또는 GraphQL에 대한 이해가 충분하고 사용성 높은 API 설계가 가능하신 분
+  - RDBMS에 대한 이해가 높고 PostgreSQL 사용 경험이 있으신 분
+  - 엔지니어링 역량 (TDD, OOP, Clean Code, Clean Architecture 등)에 관심이 많으신 분
 - 우대사항
-  - Cloud Native Pattern 및 MSA 에 대한 이해가 있으신 분
+  - 서비스 초기 기획부터 출시까지 주도적으로 개발을 진행해 본 경험이 있는 분
+  - JVM 생태계 (Java, Kotlin, Spring, JPA)에 대한 경험 및 이해가 있으신 분
+  - Typescript - NestJS 생태계에 대한 경험 및 이해가 있으신 분
+  - Kafka 등의 이벤트 스트리밍 플랫폼을 활용한 이벤트 기반 애플리케이션 설계 경험이 있으신 분
+  - 모니터링, 로깅 관련 경험 및 이해가 있으신 분
   - CI/CD 프로세스 구축 및 테스트 환경 구축 경험 있으신 분
-  - 스포츠 데이터 엔지니어링 도메인을 해보고 싶으신 분
-  - 영어로 커뮤니케이션 가능한 분(팀내 한국말하는 프랑스 개발자 있음)
-  - SaaS 플랫폼 개발 경험이 있으신 분
-  - 레거시 시스템 개선 경험 및 대용량 시스템 운영 경험이 있는 분
+  - 테스트 코드 작성 및 코드 리뷰의 중요성을 알고 실천하시는 분
+  - 새로운 기술에 관심이 많고 자기 개발을 위해 노력하시는 분
 
 
 
